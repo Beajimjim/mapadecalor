@@ -85,24 +85,3 @@ Este proyecto implementa una aplicación web con **Flask** que permite visualiza
 ]
 ```
 
-## Contribución
-
-1. Hacer un fork del repositorio.
-2. Crear una rama con los cambios:
-
-   ```
-   git checkout -b mi-rama
-   ```
-
-3. Confirmar y subir cambios:
-
-   ```
-   git commit -m "Descripción de cambios"
-   git push origin mi-rama
-   ```
-
-4. Abrir un **Pull Request**.
-
-## Licencia
-
-Este proyecto se distribuye bajo la licencia **MIT**.
